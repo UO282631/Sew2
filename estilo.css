@@ -1,0 +1,41 @@
+/****************************
+Luis Manuel Solares García - UO282631
+Descripción de estilos
+****************************/
+
+/*Specificity: (0,0,1)*/
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.05em;
+}
+
+/*Specificity: (0,0,1)*/
+header {
+    background-color: darkorange;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.5em;
+}
+
+/*Specificity: (0,0,1)*/
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+}
+
+/*Specificity: (0,0,1)*/
+section {
+    border: 1em;
+    border-style: solid;
+    border-color: black;
+    padding: 2em;
+}
+
+/*Specificity: (0,0,1)*/
+video {
+    max-width: 20em;
+    height: auto;
+}
+

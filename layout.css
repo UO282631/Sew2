@@ -1,0 +1,9 @@
+
+
+/*Specificity: (0,0,1)*/
+main {
+    grid-area: main;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

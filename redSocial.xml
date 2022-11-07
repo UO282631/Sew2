@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<redSocial
+xmlns="http://tempuri.org/diagrama1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://tempuri.org/diagrama1 diagrama1.xsd"
+>
+<persona>
+	<datos nombre="Luis Manuel" apellidos="Solares Garcia" fecha="2002-09-03" comentario="Estudiante de uniovi">
+		<lugarNacimiento nombre="Pola de Laviana" longitud="-5.5629000" latitud="43.2453800" altitud="290.0" />
+		<lugarResidencia nombre="Pola de Laviana" longitud="-5.5629000" latitud="43.2453800" altitud="290.0" />
+		<foto enlace="gato1.jpg" />
+		<foto enlace="gato2.jpg" />
+		<foto enlace="gato3.jpg" />
+	</datos>
+	<persona>
+		<datos nombre="Quentin" apellidos="Jerome Tarantino" fecha="1963-03-27" comentario="Director">
+			<lugarNacimiento nombre="Knoxville" longitud="-83.92074" latitud="35.96064" altitud="270.0" />
+			<lugarResidencia nombre="Harbor City" longitud="-118.2991" latitud="33.797" altitud="3.96" />
+			<foto enlace="Quentin1.jpg" />
+			<video enlace="Quentin1.mp4" />
+		</datos>
+		<persona>
+			<datos nombre="Martin" apellidos="Charles Scorsese" fecha="1942-11-17" comentario="Director">
+				<lugarNacimiento nombre="Queens" longitud="-73.83652" latitud="40.68149" altitud="13" />
+				<lugarResidencia nombre="Queens" longitud="-73.83652" latitud="40.68149" altitud="13" />
+				<foto enlace="Martin1.jpg" />
+			</datos>
+		</persona>
+		<persona>
+			<datos nombre="Stanley" apellidos="Kubrick" fecha="1928-07-26" comentario="Director">
+				<lugarNacimiento nombre="Nueva York" longitud="-74.00597" latitud="40.71427" altitud="10" />
+				<lugarResidencia nombre="Nueva York" longitud="-74.00597" latitud="40.71427" altitud="10" />
+				<foto enlace="Stanley1.jpg" />
+				<video enlace="Stanley1.mp4" />
+			</datos>
+		</persona>
+		<persona>
+			<datos nombre="Arnold" apellidos="Alois Schwarzenegger" fecha="1947-07-30" comentario="Actor">
+				<lugarNacimiento nombre="Thal" longitud="15.3605200" latitud="47.0764400" altitud="440" />
+				<lugarResidencia nombre="Los Ángeles" longitud="-118.2436800" latitud="34.0522300" altitud="93" />
+				<foto enlace="Arnold1.jpg" />
+				<video enlace="Arnold1.mp4" />
+			</datos>
+		</persona>
+	</persona>
+	<persona>
+		<datos nombre="Dwayne" apellidos="Douglas Johnson" fecha="1972-05-02" comentario="Actor">
+			<lugarNacimiento nombre="California" longitud="-122.080833" latitud="37.668889" altitud="4421" />
+			<lugarResidencia nombre="Miami" longitud="-100.6381900" latitud="35.6914300" altitud="2" />
+			<foto enlace="Dwayne1.jpg" />
+			<foto enlace="Dwayne2.jpg" />
+		</datos>
+		<persona>
+			<datos nombre="Leonardo" apellidos="Wilhelm DiCaprio" fecha="1974-11-11" comentario="Actor">
+				<lugarNacimiento nombre="Los Ángeles" longitud="-118.2436800" latitud="34.0522300" altitud="93" />
+				<lugarResidencia nombre="Los Ángeles" longitud="-118.2436800" latitud="34.0522300" altitud="93" />
+				<foto enlace="Leonardo1.jpg" />
+			</datos>
+		</persona>
+		<persona>
+			<datos nombre="William" apellidos="Bradley Pitt" fecha="1963-12-18" comentario="Actor">
+				<lugarNacimiento nombre="Oklahoma" longitud="-97.51643" latitud="35.46756" altitud="365" />
+				<lugarResidencia nombre="Los Ángeles" longitud="-118.2436800" latitud="34.0522300" altitud="93" />
+				<foto enlace="William1.jpg" />
+			</datos>
+		</persona>
+		<persona>
+			<datos nombre="Keanu" apellidos="Charles Reeves" fecha="1964-09-02" comentario="Actor">
+				<lugarNacimiento nombre="Beirut" longitud="35.4944200" latitud="33.8889400" altitud="0" />
+				<lugarResidencia nombre="Toronto" longitud="-79.386667" latitud="43.670278" altitud="76" />
+				<foto enlace="Keanu1.jpg" />
+				<foto enlace="Keanu2.jpg" />
+			</datos>
+		</persona>
+	</persona>
+	<persona>
+		<datos nombre="Mark" apellidos="Sinclair Vincent" fecha="1967-07-18" comentario="Actor">
+			<lugarNacimiento nombre="California" longitud="-122.080833" latitud="37.668889" altitud="4421" />
+			<lugarResidencia nombre="Nueva York" longitud="-74.00597" latitud="40.71427" altitud="10" />
+			<foto enlace="Mark1.jpg" />
+		</datos>
+		<persona>
+			<datos nombre="Stephen" apellidos="Edwin King" fecha="1947-09-21" comentario="Escritor">
+				<lugarNacimiento nombre="Portland" longitud="-122.67621" latitud="45.52345" altitud="15" />
+				<lugarResidencia nombre="Portland" longitud="-122.67621" latitud="45.52345" altitud="15" />
+				<foto enlace="Stephen1.jpg" />
+				<foto enlace="Stephen2.jpg" />
+			</datos>
+		</persona>
+		<persona>
+			<datos nombre="Santiago" apellidos="Segura Silva" fecha="1965-07-17" comentario="Director, actor y comediante">
+				<lugarNacimiento nombre="Madrid" longitud="-3.7025600" latitud="40.4165000" altitud="657" />
+				<lugarResidencia nombre="Madrid" longitud="-3.7025600" latitud="40.4165000" altitud="657" />
+				<foto enlace="Santiago1.jpg" />
+			</datos>
+		</persona>
+		<persona>
+			<datos nombre="Ronald" apellidos="N. Perlman" fecha="1950-04-13" comentario="Actor">
+				<lugarNacimiento nombre="Nueva York" longitud="-74.00597" latitud="40.71427" altitud="10" />
+				<lugarResidencia nombre="Minnesota" longitud="-93.26384" latitud="44.97997" altitud="357" />
+				<foto enlace="Ronald1.jpg" />
+				<foto enlace="Ronald2.jpg" />
+			</datos>
+		</persona>
+	</persona>
+</persona>
+</redSocial>
